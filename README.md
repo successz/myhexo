@@ -1,2 +1,2 @@
 # myhexo
-我的博客
+this is myblog
