@@ -18,7 +18,7 @@ subtitle: 现在的人越来越重视数据保密和网络安全，但http协议
 HTTPS： 简单来说是HTTP的安全版。即HTTP下加入SSL层。通俗的来说，https就是加密版的http。
 
 *https配置：*
-```
+```bash
 server_name  www.yuming.com;
 ssl_protocols TLSv1.2 TLSv1.1 TLSv1;
 ssl_certificate /etc/ssl/yourdomain.com.crt;   // 证书放置的位置
