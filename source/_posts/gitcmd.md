@@ -55,10 +55,10 @@ $ git status
 $ git push origin master
 
 # 下载远程仓库，注意与pull的区别
-$ git fetch origin master
+$ git fetch origin master:temp
 
 # 取回远程仓库，并与本地分支合并, 注意与fetch的区别
-$ git push origin master
+$ git pull origin master
 
 # 删除暂存区或分支上的的文件，但本地又需要使用（--cached）,可以使用
 $ git rm --cached file_path
