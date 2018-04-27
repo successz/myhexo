@@ -74,7 +74,7 @@ var {p,q} = o;
 ```js
 // 一个函数只能出现一个不定参数，不定参数只能放在最后面
 function add(...args){
-    
+  // console.log(args[0]);  
 }
 ```
 
