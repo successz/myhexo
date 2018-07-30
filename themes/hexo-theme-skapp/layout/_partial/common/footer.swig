@@ -50,7 +50,7 @@
         <div class="page__container footer__container">
             <p class="footer__copyright">©
                 <a href="https://github.com/Mrminfive/hexo-theme-skapp" target="_blank">Skapp</a> 2017 powered by
-                <a href="http://hexo.io/" target="_blank">Hexo</a>, made by 
+                <a>Hexo</a>, made by 
                 <a href="https://github.com/Mrminfive" target="_blank">minfive</a>.&nbsp;&nbsp;
                 <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1262835406'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/z_stat.php%3Fid%3D1262835406%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
             </p>

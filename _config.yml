@@ -5,14 +5,14 @@
 # Site
 title: 周梦成的个人博客
 subtitle: 周梦成的个人博客
-description: 这是一个个人博客，这家伙很懒，什么都是copy的，假装自己会写代码!!!
+description: 这是一个个人博客,这家伙如同蜜蜂一样勤劳,什么都想了解一下,假装自己什么都会!!!
 author: zmc
 language: zh-cn
 timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://hexo.zhoumengcheng.cn
+url: https://www.zhoumengcheng.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

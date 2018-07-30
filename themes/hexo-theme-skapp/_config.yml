@@ -2,8 +2,8 @@
 # Site
 title: BLOG
 subtitle: BLOG
-subtitle_desc: 做一个大器晚成的人
-keywords: 学习, 兴趣, 博客
+subtitle_desc: 在有限的生命中学习无限的知识
+keywords: 学习, 兴趣, 博客,个人日记
 description: 日常学习与兴趣交流的个人博客
 introduction: 好好学习 天天向上
 favicon_ico: https://images.zhoumengcheng.cn/favicon.ico
@@ -11,7 +11,7 @@ logo: https://images.zhoumengcheng.cn/z-logo.png
 qrcode: https://images.zhoumengcheng.cn/15056.jpg
 default_cover: https://images.zhoumengcheng.cn/def.jpg
 header_cover: https://images.zhoumengcheng.cn/banner.jpg
-error_page_bg: http://oo12ugek5.bkt.clouddn.com/blog/images/dogs.jpg
+error_page_bg: https://images.zhoumengcheng.cn/error.jpg
 author:
   name: successz
   link: https://github.com/successz
@@ -19,7 +19,7 @@ about:
   info: 本站是基于 Hexo 搭建的静态资源博客，主要用于分享日常学习、生活及工作的一些心得总结
   address: Hubei, Hubei Province, China
   email: 284939796@qq.com
-loader_img: http://oo12ugek5.bkt.clouddn.com/blog/images/loader.gif
+loader_img: https://images.zhoumengcheng.cn/loader.gif
 
 # Menu
 menu:
